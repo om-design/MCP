@@ -1,7 +1,3 @@
-That’s a powerful and innovative approach! You can make the **Humanify License** both a copyright-protective mechanism *and* a “creativity license” that encourages (and only allows) contributions that increase human agency, ethical clarity, and the richness/interpretability of LLM outputs.
-
-Here’s how you could word the key principles and practical terms for this unique license:
-
 ***
 
 ## **Humanify License — v1.0**
