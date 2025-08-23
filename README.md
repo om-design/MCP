@@ -1,4 +1,4 @@
-# MCP: Humanify Template for Better LLMs
+# MCP: README for the Humanify Template for Better LLMs
 
 Make your AI interactions more ethical, transparent, and effective!
 
