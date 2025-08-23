@@ -61,8 +61,30 @@ Every star, fork, and share helps bring human values to AI’s core reasoning!
 
 ---
 
-## 🪪 License and Attribution
+---
 
-Open source and free to use or modify.  
-Please attribute as: “Humanify Template by [om-design/MCP](https://github.com/om-design/MCP)”  
-Consider linking the template from your projects or documentation.
+## ⚖️ Copyright & Use Policy
+
+© 2025 om-design. All rights reserved.
+
+- **Personal or research use:**  
+  You may copy and use the Humanify Template in your own LLMs, Claude Apps, GPTs, or projects **with clear attribution** ("Humanify Template by om-design/MCP" + link to this repo).
+
+- **Attribution Required:**  
+  Any use, distribution, or reference must include clear credit and a link back to [om-design/MCP](https://github.com/om-design/MCP).
+
+- **No Unapproved Forking or Redistribution:**  
+  Forking, extensive modification, creating variants/templates for redistribution, or publishing this template in other repositories or commercial projects **requires written permission** from om-design.
+
+- **Contributions Welcome:**  
+  You can propose improvements, open issues, or submit pull requests for positive changes. All accepted contributions will credit their authors.
+
+- **Misuse or Abuse:**  
+  If you see this template used in ways that undermine its intent (e.g., to promote bias, discrimination, or exploitation), please contact [your-email@example.com] immediately.
+
+---
+
+## 📝 Suggested Attribution Example
+
+> "Powered by the Humanify Template (© omdesign, [GitHub link](https://github.com/om-design/MCP))"
+
