@@ -35,6 +35,7 @@ Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/humanify
 
 On GitHub, the code block includes a clipboard icon for one-click copying.  
 If using locally, select all the text inside the code block and copy it!
+<img width="582" height="494" alt="image" src="https://github.com/user-attachments/assets/c30170aa-458f-47b8-af61-0af4ab74ec58" />
 
 ---
 
