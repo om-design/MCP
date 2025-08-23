@@ -20,7 +20,7 @@ Whether you're building custom AIs or just want better answers from existing one
 ## 🚀 Quick Start
 
 1. **Get the Humanify Template:**  
-   [View and copy the template here](https://github.com/om-design/MCP/blob/main/humanify-template.md)
+   [View and copy the template here](https://github.com/om-design/MCP/humanify-template.md)
 2. **Paste it into** the system prompt, custom instructions, or configuration box of:
     - Claude Apps
     - GPT custom bots
@@ -31,7 +31,7 @@ Whether you're building custom AIs or just want better answers from existing one
 
 ## ➡️ Humanify Template (Copy/Paste)
 
-Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/humanify-template.md) to copy the latest version.
+Visit [humanify-template.md](https://github.com/om-design/MCP/humanify-template.md) to copy the latest version.
 
 On GitHub, the code block includes a clipboard icon for one-click copying.  
 If using locally, select all the text inside the code block and copy it!
@@ -68,7 +68,7 @@ Every star, fork, and share helps bring human values to AI’s core reasoning!
 
 © 2025 omdesign. All rights reserved.
 
-[LICENSE DETAILS](https://github.com/om-design/MCP/blob/main/LICENSE.md#humanify-license--v10): https://github.com/om-design/MCP/blob/main/LICENSE.md
+[LICENSE DETAILS](https://github.com/om-design/MCP/LICENSE.md): https://github.com/om-design/MCP/blob/main/LICENSE.md
 
 - **Personal or research use:**  
   You may copy and use the Humanify Template in your own LLMs, Claude Apps, GPTs, or projects **with clear attribution** ("Humanify Template by om-design/MCP" + link to this repo).
