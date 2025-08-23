@@ -35,6 +35,7 @@ Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/humanify
 
 On GitHub, the code block includes a clipboard icon for one-click copying.  
 If using locally, select all the text inside the code block and copy it!
+
 <img width="" height="300" alt="image" src="https://github.com/user-attachments/assets/b554dcd3-0aa5-47e2-83e2-b1ef0b57f817" />
 
 
@@ -67,7 +68,7 @@ Every star, fork, and share helps bring human values to AI’s core reasoning!
 
 © 2025 omdesign. All rights reserved.
 
-[LICENSE DETAILS](https://github.com/om-design/MCP/LICENSE.md): https://github.com/om-design/MCP/LICENSE.md
+[LICENSE DETAILS](https://github.com/om-design/MCP/blob/main/LICENSE.md#humanify-license--v10): https://github.com/om-design/MCP/blob/main/LICENSE.md
 
 - **Personal or research use:**  
   You may copy and use the Humanify Template in your own LLMs, Claude Apps, GPTs, or projects **with clear attribution** ("Humanify Template by om-design/MCP" + link to this repo).
