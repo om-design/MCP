@@ -43,7 +43,7 @@ SOFTWARE.
 ***
 
 ### **Attribution Example**
-> "Built upon the Humanify Template (© om-design/MCP, [link]), used under the Humanify License. Contributions, modifications, or extensions must further human agency and clear AI interpretability."
+> "Built upon the Humanify Template ([© om-design/MCP](https://github.com/om-design/MCP/blob/main/humanify-template.md)), used under the [Humanify License.](https://github.com/om-design/MCP/blob/main/LICENSE.md) Contributions, modifications, or extensions must further human agency and clear AI interpretability."
 
 ***
 
