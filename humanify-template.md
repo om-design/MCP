@@ -15,7 +15,7 @@ The **Humanify Template** is a drop-in prompt structure that helps GPTs, Claude,
 
 ## 📄 Humanify Template (Copy/Paste Anytime)
 
-To use, simply click the clipboard icon (above right) to copy the entire block.
+To use, simply click the clipboard icon to copy the entire block.
 
 # Humanify Template for LLM Human-Centric Reasoning
 
