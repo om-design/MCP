@@ -5,7 +5,7 @@ The **B**asic **I**ntelligent **A**gent **S**tandard (BIAS) instructs Agentic AI
 &nbsp;
 
 > ⭐ **Support bias-mitigation:**
-> [Star this project](https://github.com/om-design/MCP/stargazers) or share our [AGENTS.md](./bias/AGENTS.md) template with your community!
+> [Star this project](https://github.com/om-design/MCP/stargazers) or share our [AGENTS.md](./AGENTS.md) template with your community!
 <hr>
 
 
