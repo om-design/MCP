@@ -45,13 +45,13 @@ If using locally, select all the text inside the code block and copy it!
 - Pull requests and prompt innovation are always welcome!
 
 ---
-
+```
 ## 🤝 Contribute / Stay Updated
 
 - Open [Issues](https://github.com/om-design/MCP/issues) for suggestions/bugs.
 - PRs for new templates, translations, or workflow integrations are welcome!
 - Help keep this project improving for all.
-
+```
 ---
 
 ## 📢 Spread the Word
@@ -67,24 +67,32 @@ Every star, fork, and share helps bring human values to AI’s core reasoning!
 
 © 2025 om-design. All rights reserved.
 
+LICENSE DETAILS: https://github.com/om-design/MCP/LICENSE.md
+
 - **Personal or research use:**  
   You may copy and use the Humanify Template in your own LLMs, Claude Apps, GPTs, or projects **with clear attribution** ("Humanify Template by om-design/MCP" + link to this repo).
 
 - **Attribution Required:**  
   Any use, distribution, or reference must include clear credit and a link back to [om-design/MCP](https://github.com/om-design/MCP).
 
+```
+ 📝 Suggested Attribution Example
+
+> "Powered by the Humanify Template (© omdesign, [GitHub link](https://github.com/om-design/MCP))"
+```
+
+
 - **No Unapproved Forking or Redistribution:**  
   Forking, extensive modification, creating variants/templates for redistribution, or publishing this template in other repositories or commercial projects **requires written permission** from om-design.
 
 - **Contributions Welcome:**  
-  You can propose improvements, open issues, or submit pull requests for positive changes. All accepted contributions will credit their authors.
+You can propose improvements, open issues, or submit pull requests for positive changes. All accepted contributions will credit their authors.
 
-- **Misuse or Abuse:**  
-  If you see this template used in ways that undermine its intent (e.g., to promote bias, discrimination, or exploitation), please contact [your-email@example.com] immediately.
+- **Misuse or Abuse:**
+We will not tolerate any action by any party that, in our judgment, diminishes the agency of any human.
+
+
+  📬  For permission requests, misuse notifications, suggestions, or other inquiries,  
+please [open an Issue on GitHub](https://github.com/om-design/MCP/issues).
 
 ---
-
-## 📝 Suggested Attribution Example
-
-> "Powered by the Humanify Template (© omdesign, [GitHub link](https://github.com/om-design/MCP))"
-
