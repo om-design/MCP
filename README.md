@@ -45,13 +45,13 @@ If using locally, select all the text inside the code block and copy it!
 - Pull requests and prompt innovation are always welcome!
 
 ---
-```
+
 ## 🤝 Contribute / Stay Updated
 
 - Open [Issues](https://github.com/om-design/MCP/issues) for suggestions/bugs.
 - PRs for new templates, translations, or workflow integrations are welcome!
 - Help keep this project improving for all.
-```
+
 ---
 
 ## 📢 Spread the Word
@@ -61,13 +61,11 @@ Every star, fork, and share helps bring human values to AI’s core reasoning!
 
 ---
 
----
-
 ## ⚖️ Copyright & Use Policy
 
-© 2025 om-design. All rights reserved.
+© 2025 omdesign. All rights reserved.
 
-LICENSE DETAILS: https://github.com/om-design/MCP/LICENSE.md
+[LICENSE DETAILS](https://github.com/om-design/MCP/LICENSE.md): https://github.com/om-design/MCP/LICENSE.md
 
 - **Personal or research use:**  
   You may copy and use the Humanify Template in your own LLMs, Claude Apps, GPTs, or projects **with clear attribution** ("Humanify Template by om-design/MCP" + link to this repo).
@@ -75,11 +73,10 @@ LICENSE DETAILS: https://github.com/om-design/MCP/LICENSE.md
 - **Attribution Required:**  
   Any use, distribution, or reference must include clear credit and a link back to [om-design/MCP](https://github.com/om-design/MCP).
 
-```
+
  📝 Suggested Attribution Example
 
 > "Powered by the Humanify Template (© omdesign, [GitHub link](https://github.com/om-design/MCP))"
-```
 
 
 - **No Unapproved Forking or Redistribution:**  
