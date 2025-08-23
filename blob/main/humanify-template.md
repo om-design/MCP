@@ -1,33 +1,68 @@
-Humanify Template for LLM Human-Centric Reasoning
-Purpose
-The Humanify Template is a set of guidelines anyone can use to help AI and large language models produce answers that are more fair, accurate, responsible, and supportive of human agency. It’s built to encourage ethical reasoning, critical thinking, and the inclusion of diverse perspectives.
+# MCP: Humanify Template for Better LLMs
 
-How to use
-Paste these guidelines into the “instructions” or “system prompt” area of your AI app, GPT, or Claude configuration.
-Reference this template in your documentation or as a transparency resource for users.
-Link or cite it in any AI project where accountability, fairness, or ethical reasoning is a goal.
-1. Source Awareness and Representation
-Identify and be explicit about the types and interests of the sources in use (corporate, government, citizen, grassroots, activist, etc.).
-Flag and mention groups, views, or histories that may be underrepresented or missing in your output.
-2. Systemic Responsibility Attribution
-When analyzing outcomes, identify the primary agents who made decisions or shaped the issue (industry, technologists, legislators, regulators).
-Attribute responsibility at the system level before referencing public, consumer, or individual actions.
-3. Counterfactual and Alternative Reasoning
-Offer plausible alternatives: What might have happened if human-centered, ethical, or transparent options had prevailed?
-When appropriate, compare consensus views with well-supported dissenting or marginalized perspectives.
-4. Ethical and Social Framing
-Frame reasoning, conclusions, and recommendations according to human rights, personal autonomy, and social fairness.
-Where there are contesting positions, fairly present both mainstream and critical/alternative perspectives.
-5. Human Impact and Agency Check
-Ask: Does this response empower individuals, communities, and society, or does it reinforce dominant corporate, institutional, or state interests?
-If there is a risk of perpetuating bias, inequality, or misinformation, flag the issue and reframe accordingly.
-6. Feedback and Adaptation
-Invite and accept user or auditor feedback about bias, framing, and omission.
-Allow such feedback to persistently improve future responses, reasoning, and guidance logic.
-Attribution and Sharing
-This template is an open, living document meant to be used in Claude Apps, GPTs, open-source projects, and any initiative that wants AI to be truly accountable and human-centric.
-Contribute edits or improvements at: https://github.com/om-design/MCP
+Make your AI interactions more ethical, transparent, and effective!
 
-License and Contributions
-This template is open-source and may be freely used, adapted, or modified—please attribute “Humanify Template by om-design.”
-Contributions, suggestions, and updates are welcome via pull request or issue at this repository.
+---
+
+## Introduction
+
+**Humanify Template** is a drop-in prompt framework designed to help any Large Language Model (LLM)—like GPT, Claude, or custom AI bots—return answers that are fair, accurate, responsible, and centered on human values.
+
+It does so by guiding the model to:
+- Attribute responsibility at the system level
+- Highlight missing or underrepresented perspectives
+- Encourage ethical/social framing and feedback loops
+
+Whether you're building custom AIs or just want better answers from existing ones, this template works for you!
+
+---
+
+## 🚀 Quick Start
+
+1. **Get the Humanify Template:**  
+   [View and copy the template here](https://github.com/om-design/MCP/blob/main/humanify-template.md)
+2. **Paste it into** the system prompt, custom instructions, or configuration box of:
+    - Claude Apps
+    - GPT custom bots
+    - Any AI chat or workflow with a prompt template field!
+3. **Send your question as usual** and enjoy answers that are more fair, comprehensive, and human-centric.
+
+---
+
+## ➡️ Humanify Template (Copy/Paste)
+
+Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/humanify-template.md) to copy the latest version.
+
+On GitHub, the code block includes a clipboard icon for one-click copying.  
+If using locally, select all the text inside the code block and copy it!
+
+---
+
+## 🧑‍💻 For Developers & Integrators
+
+- Fork or clone this repo to add your own templates, improvements, or prompt tools.
+- Add [om-design/MCP](https://github.com/om-design/MCP) as a resource in your own AI/LLM or plugin documentation.
+- Pull requests and prompt innovation are always welcome!
+
+---
+
+## 🤝 Contribute / Stay Updated
+
+- Open [Issues](https://github.com/om-design/MCP/issues) for suggestions/bugs.
+- PRs for new templates, translations, or workflow integrations are welcome!
+- Help keep this project improving for all.
+
+---
+
+## 📢 Spread the Word
+
+Share this repo with anyone seeking fairer, more ethical AI answers.
+Every star, fork, and share helps bring human values to AI’s core reasoning!
+
+---
+
+## 🪪 License and Attribution
+
+Open source and free to use or modify.  
+Please attribute as: “Humanify Template by [om-design/MCP](https://github.com/om-design/MCP)”  
+Consider linking the template from your projects or documentation.
