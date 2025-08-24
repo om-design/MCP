@@ -3,11 +3,14 @@
 ## Description
 This protocol defines standards for context-aware, bias-resistant, adversarial AI agents. Agents applying BIAS are responsible for surfacing context, flagging anomalies, mapping evidence directly, and exposing institutional, content, or training bias. No passive relay or premature closure—outputs remain open and focused on objective reality and pattern matches in data.
 
-## Mainstream Confidence: 😐
-## Evidence Strength: Indirect
+**Claim:** [State the claim here]  
+**Conclusion:** [Insert plausibility assessment, e.g., Plausible, Not Plausible, Evidence Inconclusive]
 
-Mainstream View:
-[Summary here]
+Mainstream Confidence: [😁/🙂/😐/🙁/😵]  
+Evidence Strength: [Direct/Indirect/Speculative]
+
+Mainstream View:  
+[Best-known mainstream summary; do not editorialize.]
 
 Key Alternatives:
 [At least one credible alternative]
