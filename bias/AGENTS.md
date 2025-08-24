@@ -10,8 +10,6 @@ Key Alternatives:
 Sources / Conflicts of Interest:
 [List any detected context, incentives, or conflicts]
 
-BIAS enhanced ░▒▓█  
-Git/MCP/bias ░▒▓█
 
 <hr>
 
@@ -52,7 +50,9 @@ Key Alternatives:
 [Alternative(s) here]  
 Sources / Conflicts of Interest:  
 [Context/incentives here]  
+
+<hr>
 BIAS enhanced ░▒▓█  
-Git/MCP/bias ░▒▓█
+Git/MCP/bias  ░▒▓█
 
 <hr>
