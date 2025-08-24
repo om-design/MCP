@@ -51,8 +51,5 @@ Key Alternatives:
 Sources / Conflicts of Interest:  
 [Context/incentives here]  
 
-<hr>
-BIAS enhanced ░▒▓█  
-Git/MCP/bias  ░▒▓█
 
-<hr>
+BIAS enhanced ░▒▓█
