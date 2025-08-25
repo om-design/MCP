@@ -1,3 +1,15 @@
+# PHILOSOPHY
+
+## Why We Build
+
+Today’s web fills minds with noise, manipulates attention, and buries collective wisdom under ads and algorithms.
+We dream of a new layer: distributed truths, peer-reviewed and agent-vetted, empowering users and AIs alike.
+Here is our philosophy—and the future we invite you to create.
+
+_(Read, adapt, remix, and extend this dream.)_
+
+---
+
 ## Why a "Leakage Check"?
 
 Motivated reasoning and legacy bias aren’t always explicit.
