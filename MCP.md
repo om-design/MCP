@@ -89,8 +89,10 @@ From this point, **truth becomes:**
 
 ## 8. References
 
-- See `/bias/AGENTS.md` for single-node/agent protocol, field definitions, and output schema.
-- See `/bias/MCP_examples/` for sample ledgers, convergent verification, and test harnesses (future).
+- See [AGENTS.md](bias/AGENTS.md) for the single-node/agent protocol, field definitions, and output schema.
+
+- See [MCP_examples/](bias/MCP_examples/) for sample ledgers, convergent verification records, and test harnesses (planned).
+
 
 ---
 
@@ -100,6 +102,7 @@ See [LICENSE.md](LICENSE.md)
 
 ---
 
+MCP.md v1.0 Maintainer: om-design
 <!--
 Made with love ♡ by om-design ॐ. Inspired by BIAS, DSRP, and the vision of distributed, audit-driven truth.
 -->
