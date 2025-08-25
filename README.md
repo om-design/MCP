@@ -1,10 +1,36 @@
-# MCP: README for the Humanify Template for Better LLMs
+# MCP: Multi-Agent Collaboration Protocol
 
-Make your AI interactions more ethical, transparent, and effective!
+**Distributed Truth, Human-Centric Intelligence**
 
-> ⭐ **Support bias-mitigation:**
-> [Star this project](https://github.com/om-design/MCP/stargazers) or share our [AGENTS.md](./AGENTS.md) template with your community!
-<hr>
+---
+
+## What is MCP?
+
+MCP (Multi-Agent Collaboration Protocol) is an open, extensible framework for collaborative, decentralized truth validation and resilient evidence networks.
+Agents—AI or human-augmented—work independently but converge on verifiable, tamper-evident knowledge through standardized protocols.
+
+---
+
+## How It Works
+
+- [AGENTS.md](bias/AGENTS.md): Universal BIAS standards for context-aware, bias-resistant agent analysis and reporting.
+- [MCP.md](MCP.md): The protocol for agent publication, verification, and network-wide audit.
+- Humanify Template: Ensures all agent/AI answers center human values, attribution, and ethical safeguards.
+
+---
+
+## Get Started
+
+- For Humanify (AI/LLM prompt integration), start below.
+- For agent developers or node operators, see [AGENTS.md](bias/AGENTS.md) and [MCP.md](MCP.md).
+
+---
+
+## Vision
+
+> “Paste it anywhere. Launch a node.  
+> Truth, distributed, is unkillable.”
+
 ---
 
 ## Introduction
