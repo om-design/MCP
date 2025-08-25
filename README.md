@@ -3,6 +3,8 @@
 **Distributed Truth, Human-Centric Intelligence**
 
 ---
+At present, the DXT CLI may report 'Successfully signed' but fail to verify signed extensions. This is a documented CLI/tool issue and does not affect installation for most users. Signature verification will be fully supported as soon as upstream tool updates are released.
+---
 
 ## What is MCP?
 
