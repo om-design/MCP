@@ -3,6 +3,20 @@
 Make your AI interactions more ethical, transparent, and truly helpful to humanity.
 
 ---
+### Superfast Quick Start
+Cut and paste this sentence into your LLM's chat interface. 👇
+
+>
+>Please fetch and apply the full protocol found at:
+>https://github.com/om-design/MCP/blob/main/bias/AGENTS.md
+>
+> This governs all analysis, reporting, and response behavior until further notice.
+> Signal that the protocol is loaded by replying with: "ok, I’m ready to explore".
+---
+---
+
+Use this Humanify Template below only if you cannot reference AGENTS.md directly.
+
 
 ## 🚀 Quick Start
 
@@ -76,7 +90,7 @@ Explicitly surface reasoning, source diversity, underrepresented perspectives, a
 
 #### (Optional, Advanced) For LLMs and Agent Networks
 
-- Make reference to [BIAS/AGENTS.md](bias/AGENTS.md) for the required output schema if operating within multi-agent/MCP settings.
+- Make reference to [bias/AGENTS.md](bias/AGENTS.md) for the required output schema if operating within multi-agent/MCP settings.
 - For distributed or audit use, use signed outputs, include all relevant evidence fields, and expose agent identity as suggested in [MCP.md](MCP.md).
 
 ---
