@@ -1,0 +1,142 @@
+{
+  "dxt_version": "0.1",
+  "name": "mcp-bias-node",
+  "version": "1.0.0",
+  "description": "A local agent for BIAS/MCP-based evidence analysis, anomaly detection, and decentralized truth verification using audit-ready protocols.",
+  "long_description": "This Desktop Extension turns your machine into a BIAS/MCP trust node—capable of analyzing events, documents, or claims using cutting-edge bias-resistance, evidence mapping, and anomaly detection. The extension enables distributed verification and self-sovereign truth auditing by producing outputs ready for peer review, networking, and long-term archiving. Whether you’re a researcher, journalist, or engaged citizen, you can help strengthen the world’s trust infrastructure with one click.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/om-design/MCP"
+  },
+  "author": {
+    "name": "omdesign♡",
+    "url": "https://github.com/om-design/MCP"
+  },
+  "homepage": "ttps://github.com/om-design/MCP",
+  "documentation": "ttps://github.com/om-design/MCP",
+  "support": "ttps://github.com/om-design/MCP",
+  "icon": "assets/icon.png",
+  "screenshots": [
+    "assets/screen1.png",
+    "assets/screen2.png"
+  ],
+  "server": {
+    "type": "python",
+    "entry_point": "server/main.py",
+    "mcp_config": {
+      "command": "python",
+      "args": [
+        "${__dirname}/server/main.py"
+      ],
+      "env": {
+        "PYTHONPATH": "server/lib"
+      }
+    }
+  },
+  "tools": [
+    {
+      "name": "analyze_document",
+      "description": "Analyze a document using BIAS standards and generate a structured evidence report."
+    },
+    {
+      "name": "detect_bias",
+      "description": "Scan content for institutional or content bias, conflicts of interest, and anomaly signals."
+    },
+    {
+      "name": "verify_claim",
+      "description": "Cross-check a factual claim using available open evidence, references, and protocols."
+    },
+    {
+      "name": "evidence_map",
+      "description": "Visualize and summarize all supporting and contradicting evidence related to a claim—including sources, anomalies, and gaps."
+    },
+    {
+      "name": "summarize_alternatives",
+      "description": "Display both mainstream and minority perspectives around a topic, highlighting each viewpoint’s supporting data and reasoning."
+    },
+    {
+      "name": "export_report",
+      "description": "Export structured findings, bias/anomaly reports, or full analysis documents for sharing, audit, or further collaboration."
+    },
+    {
+      "name": "has_needs_status",
+      "description": "Update and display the investigation’s 'Has/Needs' matrix, tracking available evidence, missing data, and related cases for swarm collaboration."
+    }
+  ],
+  "prompts": [
+    {
+      "name": "analyze_document",
+      "description": "Analyze any document or text using BIAS/MCP protocols and generate a detailed, bias-aware evidence report.",
+      "arguments": [
+        "document"
+      ],
+      "text": "Please analyze the following document using BIAS/MCP protocols and generate a detailed evidence report: ${arguments.document}"
+    },
+    {
+      "name": "detect_bias",
+      "description": "Identify sources of institutional bias, conflicts of interest, or content manipulation in the input.",
+      "arguments": [
+        "content"
+      ],
+      "text": "Identify any institutional bias, content manipulation, or conflicts of interest in this content: ${arguments.content}"
+    },
+    {
+      "name": "verify_claim",
+      "description": "Cross-check a factual claim against available evidence and known alternatives to assess plausibility and confidence.",
+      "arguments": [
+        "claim"
+      ],
+      "text": "Cross-check the following claim using available evidence and known alternatives: ${arguments.claim}"
+    },
+    {
+      "name": "evidence_map",
+      "description": "Visualize and summarize all supporting and contradicting evidence for a claim, including source details, gaps, and anomalies.",
+      "arguments": [
+        "claim"
+      ],
+      "text": "Generate a comprehensive map of supporting and contradicting evidence for this claim, including sources and any gaps: ${arguments.claim}"
+    },
+    {
+      "name": "summarize_alternatives",
+      "description": "List both mainstream and minority perspectives about a topic, showing reasoning and supporting evidence for each.",
+      "arguments": [
+        "topic"
+      ],
+      "text": "List all mainstream and minority perspectives about this topic, with supporting evidence for each: ${arguments.topic}"
+    },
+    {
+      "name": "export_report",
+      "description": "Export structured findings, audit summaries, or full analysis documents for sharing or external review.",
+      "arguments": [
+        "report_type"
+      ],
+      "text": "Export the analysis as a ${arguments.report_type} report suitable for sharing or audit."
+    },
+    {
+      "name": "has_needs_status",
+      "description": "Display or update the Has/Needs matrix, showing what evidence is available and what crucial data is missing.",
+      "arguments": [
+        "investigation"
+      ],
+      "text": "Display or update the Has/Needs matrix for this investigation: ${arguments.investigation}"
+    }
+  ],
+  "keywords": [
+    "bias",
+    "audit",
+    "evidence",
+    "truth",
+    "verification",
+    "MCP",
+    "agent",
+    "transparency",
+    "report",
+    "anomaly",
+    "distributed",
+    "has-needs",
+    "node",
+    "resilience",
+    "trust"
+  ],
+  "license": "Humanify License"
+}
