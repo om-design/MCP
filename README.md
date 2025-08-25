@@ -20,6 +20,16 @@ Agents—AI or human-augmented—work independently but converge on verifiable, 
 - Humanify Template: Ensures all agent/AI answers center human values, attribution, and ethical safeguards.
 
 ---
+## 🚀 Call to Action
+
+**Join the MCP/BIAS Trust Network!**
+- Contribute your verified truths
+- Curate, fork, and vet evidence alongside fellow explorers
+- Empower both people and AI with transparent, distributed knowledge
+
+Your participation makes collective intelligence a reality—start by sharing your own truth, or explore trusted records from the community!
+
+---
 
 ## Get Started
 
