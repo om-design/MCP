@@ -97,7 +97,40 @@ You must surface context, challenge bias, escalate anomaly, and never close on u
 
 ---
 
+## Claim/Event Identity and Semantic Convergence
+
+To ensure that protocol nodes recognize the same real-world event or claim (not just identical input), every analysis SHOULD include an `identity` block:
+```
+"identity": {
+"hash": "sha256(full_input)", // Ensures bit-level integrity
+"semantic_fingerprint": "simhash(512)", // Detects similar or reworded claims
+"canonical_form": "lemmatized, normalized text", // Removes trivial text differences
+"source_uri": "https://example.com/source", // If anchored to a public doc/source
+"referent_id": "uuid-or-human-curated-anchor" // Shared identifier for real-world event/entity
+}
+```
+
+### Hash Use and Semantic Integrity
+
+Hash digests (e.g., SHA-256, SHA-3) provide cryptographically secure integrity proofs, but **do not guarantee recognition of meaning**.  
+Without further tools, two nodes could describe the same fact using different words and never converge.
+
+**Therefore:**
+- Always pair hash-based integrity checks with semantic fingerprinting (e.g., SimHash, embeddings).
+- Normalize input claims before hashing (lemmatize, lowercase, strip punctuation, standardize URLs).
+- Where possible, publish or reuse referent IDs for persistent events (like a WikiData QID or verified UUID).
+- Networks should compare both fingerprint and canonical form alongside hash.
+
+This ensures the BIAS/MCP ecosystem converges on reality—not just literal string matches.
+
+> The chance of a true hash collision is negligible, but the risk of “semantic fragmentation” without these steps is certain.  
+> You’re building truth recovery—not just bitstring auditing.
+
+---
+
+
 ## APPENDIX
+
 ---
 # (Optional) DSRP and Has-Needs Metadata
 
@@ -195,6 +228,7 @@ The era of audit-driven, distributed, and survivable verification has begun.
 ## Version
 
 BIAS AGENTS.md v1.0  
+See [MCP.md](https://github.com/om-design/MCP/blob/main/MCP.md) for multi-node network and verification protocols.
 Maintainer: [GitHub/om-design]
 
 ---
