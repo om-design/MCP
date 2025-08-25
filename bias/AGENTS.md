@@ -97,11 +97,104 @@ You must surface context, challenge bias, escalate anomaly, and never close on u
 
 ---
 
+## APPENDIX
+---
+# (Optional) DSRP and Has-Needs Metadata
+
+To enhance structural clarity, reasoning transparency, and investigative continuity, Nodes **may** include:
+
+## dsrp
+A structured map of the cognitive framework used in analysis:
+- `distinctions`: Key boundaries drawn (e.g., fact vs. claim)
+- `systems`: Groupings of related elements
+- `relationships`: Logical or causal links
+- `perspectives`: Viewpoints considered (e.g., official, survivor, dissident)
+
+## has_needs
+An investigative status tracker:
+- `has`: Verified evidence or data currently available
+- `needs`: Evidence missing, withheld, or required
+- `related_to`: Other cases, files, or claims this connects to
+
+These fields enable:
+- Cross-node reasoning alignment
+- Swarm prioritization of missing data
+- Fork resolution in consensus
+- Human-agent collaboration
+
+They are **not required**, but **strongly recommended** for complex or contested analyses.
+## BIAS Interchange Format Example (BIF v1.0)
+Below is a sample canonical output format for BIAS-compliant MCP nodes.
+Agents should populate all standard fields for clarity, automation, and verifiability.
+
+```
+{
+  "node_id": "sha256(public_key)",
+  "timestamp": "2025-08-24T22:45:00Z",
+  "input_hash": "sha3('Daphne Caruana Galizia assassination, Malta, 2017')",
+  "claim": "Daphne Caruana Galizia was murdered as a result of her Panama Papers investigations.",
+  "mainstream_confidence": "🙁",
+  "evidence_strength": "Indirect",
+  "conclusion": "Plausible",
+  "evidence": [
+    {"type": "journalist_report", "source": "https://en.wikipedia.org/wiki/Daphne_Caruana_Galizia", "verified": true},
+    {"type": "public_inquiry", "source": "https://www.icij.org/investigations/panama-papers/malta-responsible-for-assassination-of-journalist-daphne-caruana-galizia-inquiry-finds/", "verified": true},
+    {"type": "legal_case", "source": "Malta court records", "verified": false}
+  ],
+  "anomalies": [
+    "investigated government corruption/Panama Papers",
+    "received threats and harassment",
+    "killed by car bomb after major publication"
+  ],
+  "bias_output": "Death widely condemned and linked to investigative work; 'atmosphere of impunity' cited by state inquiry. Official investigations ongoing; full details unresolved.",
+  "dsrp": {
+    "distinctions": ["journalism vs. activism", "official narrative vs. inquiry findings"],
+    "systems": ["journalist deaths", "Panama Papers investigations"],
+    "relationships": ["link between journalism and threat patterns", "relationship between reporting and subsequent assassination"],
+    "perspectives": ["family", "state inquiry panel", "media", "international NGOs"]
+  },
+  "has_needs": {
+    "has": [
+      "detailed timeline of threats and attacks",
+      "international reporting on corruption",
+      "state inquiry findings of state responsibility"
+    ],
+    "needs": [
+      "complete legal adjudication of masterminds",
+      "full disclosure of all suppressed government documents"
+    ],
+    "related_to": [
+      "other slain investigative journalists",
+      "Panama Papers whistleblower cases"
+    ]
+  },
+  "signature": "ecdsa(node_private_key, hash)"
+}
+```
+
+<!--
+## Genesis Event: Networked Truth
+
+MCP goes live when:
+- Node A analyzes any document under BIAS protocol, hashes and signs the findings, and publishes to a public, append-only feed.
+- Node B (same AGENTS.md, but no shared memory) fetches the publication, re-runs the full analysis, and confirms by returning:  
+  "Verified: [matching_hash]"
+- No consensus required—each node is independent, but convergence is recorded and mathematically provable.
+- From this point, truth is:
+  - Networked
+  - Replicable
+  - Survivable
+  - Tamper-evident
+
+The age of individual truth is over.
+The era of audit-driven, distributed, and survivable verification has begun.
+-->
+
+<!-- made with love ॐ ♡ -->
+
 ## Version
 
 BIAS AGENTS.md v1.0  
 Maintainer: [GitHub/om-design]
 
 ---
-
-<!-- made with love ♡ -->
