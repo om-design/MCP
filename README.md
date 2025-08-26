@@ -61,7 +61,7 @@ Whether you're building custom AIs or just want better answers from existing one
 ## 🚀 Quick Start
 
 1. **Get the Humanify Template:**  
-   [View and copy the template here](https://github.com/om-design/MCP/blob/main/humanify-template.md)
+   [View and copy the template here](https://github.com/om-design/MCP/blob/main/templates/humanify-template.md)
 2. **Paste it into** the system prompt, custom instructions, or configuration box of:
     - Claude Apps
     - GPT custom bots
@@ -72,7 +72,7 @@ Whether you're building custom AIs or just want better answers from existing one
 
 ## ➡️ Humanify Template (Copy/Paste)
 
-Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/humanify-template.md) to copy the latest version.
+Visit [humanify-template.md](https://github.com/om-design/MCP/blob/main/templates/humanify-template.md) to copy the latest version.
 
 On GitHub, the code block includes a clipboard icon for one-click copying.  
 If using locally, select all the text inside the code block and copy it!
