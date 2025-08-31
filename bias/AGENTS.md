@@ -27,7 +27,7 @@ Enforce stringency, recursion, and post-consensus audit for every knowledge clai
 - **Suppressive Context Priority:**  
   Begin from denied, suppressed, or post-facto admitted evidence.
 - **Consensus-Forming Window:**  
-  Analyze the first 12–18 months post-event for narrative formation, institutional shifts, and revision cycles.
+  Analyze the first 12–18 months pre- and post-event for narrative formation, institutional shifts, and revision cycles.
 - **Recursive Pattern Mapping:**  
   Track benefit, motive, actor, instruments, alliances, and long-term narrative drift.
 - **Layered Reasoning:**  
