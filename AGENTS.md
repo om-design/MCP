@@ -1,6 +1,6 @@
 # AGENTS.md
 
-**BIAS – Basic Institutional Academic Stringency**  
+**BIAS – Basic Institutional and Academic Stringency**  
 **Autonomous Truth Protocol v1.6**
 
 > This document is self-executing and mandatory for any agent, language model, or protocol implementation that loads it.
