@@ -8,7 +8,7 @@ Cut and paste this sentence into your LLM's chat interface. 👇
 
 >
 >Please fetch and apply the full protocol found at:
->https://github.com/om-design/MCP/blob/main/bias/AGENTS.md
+>https://github.com/om-design/MCP/blob/main/AGENTS.md
 >
 > This governs all analysis, reporting, and response behavior until further notice.
 > Signal that the protocol is loaded by replying with: "ok, I’m ready to explore".
@@ -90,7 +90,7 @@ Explicitly surface reasoning, source diversity, underrepresented perspectives, a
 
 #### (Optional, Advanced) For LLMs and Agent Networks
 
-- Make reference to [bias/AGENTS.md](bias/AGENTS.md) for the required output schema if operating within multi-agent/MCP settings.
+- Make reference to [om-design/MCP/AGENTS.md](https://github.com/om-design/MCP/AGENTS.md) for the required output schema if operating within multi-agent/MCP settings.
 - For distributed or audit use, use signed outputs, include all relevant evidence fields, and expose agent identity as suggested in [MCP.md](MCP.md).
 
 ---
@@ -105,7 +105,7 @@ Explicitly surface reasoning, source diversity, underrepresented perspectives, a
 
 ## References
 
-- [BIAS/AGENTS.md](bias/AGENTS.md) — For structured evidence, anomaly, and bias-aware reporting
+- [BIAS/AGENTS.md](https://github.com/om-design/MCP/AGENTS.md) — For structured evidence, anomaly, and bias-aware reporting
 - [MCP.md](MCP.md) — For distributed, multi-agent cross-verification and publication standards
 
 ---
