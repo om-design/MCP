@@ -1,6 +1,6 @@
 # Mitigating BIAS
 
-The **Basic Institutional and Academic Stringency** (BIAS) instructs Agentic AI to provide bias-aware outputs.
+The **Basic Institutional and Academic Stringency** (BIAS) protocol instructs Agentic AI to provide bias-aware outputs.
 
 &nbsp;
 
