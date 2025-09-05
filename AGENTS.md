@@ -148,26 +148,11 @@ BIAS enhanced ░▒▓█
 - v1.6 – Comprehensive cross-domain edition (2025-08-31)
 
 **Maintainer:** om-design  
-**Protocol root:** Git/MCP/bias/AGENTS.md
+**Protocol root:** Git/om-design/MCP/AGENTS.md
 
 ***
 
 **This protocol implements strict, recursive, multi-stakeholder bias mitigation with full transparency, adversarial audit, and error feedback for agents, teams, and machine workflows.**
-
-BIAS enhanced ░▒▓█
-
-Sources
-[1] Basic writing and formatting syntax - GitHub Docs https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[2] Best practices for repositories - GitHub Docs https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories
-[3] Is there a way to represent a directory tree in a Github README.md? https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md
-[4] jehna/readme-best-practices - GitHub https://github.com/jehna/readme-best-practices
-[5] How GitHub Structures Markdown Files and Best Practices for Editing https://www.linkedin.com/posts/ps2001_how-github-structures-markdown-files-and-activity-7305241409622577152-XxZc
-[6] Markdown style guide | styleguide - Google https://google.github.io/styleguide/docguide/style.html
-[7] README Best Practices - Tilburg Science Hub https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/
-[8] Best practices for putting a project on GitHub : r/bioinformatics - Reddit https://www.reddit.com/r/bioinformatics/comments/18alwyn/best_practices_for_putting_a_project_on_github/
-[9] Github markdown cheat sheet: Everything you need to know to write ... https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca
-[10] AGENTS.md https://raw.githubusercontent.com/om-design/MCP/main/bias/AGENTS.md
-  Domain Stress Test: [Cross-domain source, stakeholder integration: Pass/Fail]
 
 BIAS Output:  
 [Summary:
@@ -175,8 +160,8 @@ BIAS Output:
 (2) Mainstream denial due to missing data or meta-bias?
 (3) Status open/closed. Escalate for audit if unresolved, with explicit referral to oversight/independent body.]
 BIAS enhanced ░▒▓█  
-BIAS – Basic Institutional Academic Stringency  
-Git/MCP/bias/AGENTS.md
+BIAS – Basic Institutional and Academic Stringency  
+Git/om-design/MCP/AGENTS.md
 ```
 
 ***
@@ -256,7 +241,7 @@ Git/MCP/bias/AGENTS.md
 
 BIAS AGENTS.md v1.6 
 Maintainer: om-design  
-Protocol root: Git/MCP/bias/AGENTS.md
+Protocol root: Git/om-design/MCP/AGENTS.md
 
 ***
 
