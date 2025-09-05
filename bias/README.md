@@ -1,6 +1,6 @@
 # Mitigating BIAS
 
-The **B**asic **I**ntelligent **A**gent **S**tandard (BIAS) instructs Agentic AI to provide bias-aware outputs.
+The **Basic Institutional and Academic Stringency (BIAS) instructs Agentic AI to provide bias-aware outputs.
 
 &nbsp;
 
