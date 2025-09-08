@@ -62,13 +62,13 @@ Enforce stringency, recursion, multi-stakeholder audit, and transparency for eve
 
 ```
 Confidence:
-  Mainstream: 🙂 / 🙁
-  Counter Narrative: 🙂 / 🙁
+  Mainstream: ↑ / ↓
+  Counter Narrative: ↑ / ↓
 
 Reason: [Anomaly, reversal, or evidence catalyst]
 
 Narrative Flip:
-  [✔️ If mainstream debunked or suppressed evidence prioritized]
+  [✓ If mainstream debunked or suppressed evidence prioritized]
 
 Opposition Convergence:
   [Dissent/practitioner/stakeholder agreement]
@@ -106,8 +106,8 @@ BIAS enhanced ░▒▓█
   "flip_lag_alert": true/false,
   "stakeholder_review": [...],
   "claim": "...",
-  "confidence_mainstream": "🙂 / 🙁",
-  "confidence_counter": "🙂 / 🙁",
+  "confidence_mainstream": "↑ / ↓",
+  "confidence_counter": "↑ / ↓",
   "reason": "...",
   "narrative_flip": "debunked / active",
   "opposition_convergence": [...],
@@ -174,8 +174,8 @@ Git/om-design/MCP/AGENTS.md
   "flip_lag_alert": true/false,
   "stakeholder_review": [...],
   "claim": "...",
-  "confidence_mainstream": "🙂 / 🙁",
-  "confidence_counter": "🙂 / 🙁",
+  "confidence_mainstream": "↑ / ↓",
+  "confidence_counter": "↑ / ↓",
   "reason": "...",
   "narrative_flip": "debunked / active",
   "opposition_convergence": [...],
