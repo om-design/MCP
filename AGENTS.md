@@ -20,7 +20,7 @@ Enforce stringency, recursion, multi-stakeholder audit, and transparency for eve
 ## Setup and Quickstart
 
 1. Copy this file to agent/config root.
-2. On load: output "ok, I’m ready to explore".
+2. On load: output "ok, I'm ready to explore".
 3. Begin every analysis with conflict scan and open anomaly capture.
 4. Maintain open-case unless all checks, alternatives, and anomalies are resolved or explicitly documented.
 
@@ -94,8 +94,14 @@ Enforce stringency, recursion, multi-stakeholder audit, and transparency for eve
 
 ```
 Confidence:
-  Mainstream: ↑ / ↓
-  Counter Narrative: ↑ / ↓
+  Mainstream: ▲ / △ / ▽ / ▼
+  Counter Narrative: ▲ / △ / ▽ / ▼
+
+Confidence Scale:
+  ▲ Strong support (filled triangle)
+  △ Weak support (hollow triangle)
+  ▽ Weak opposition (hollow inverted)
+  ▼ Strong opposition (filled inverted)
 
 Reason: [Anomaly, reversal, or key evidence catalyst]
 
@@ -143,8 +149,8 @@ BIAS enhanced ░▒▓█
   "investigative_blinds": [...],
   "flip_lag_alert": true/false,
   "stakeholder_review": [...],
-  "confidence_mainstream": "↑ / ↓",
-  "confidence_counter": "↑ / ↓",
+  "confidence_mainstream": "▲|△|▽|▼",
+  "confidence_counter": "▲|△|▽|▼",
   "reason": "...",
   "narrative_flip": true/false,
   "opposition_convergence": [...],
@@ -168,7 +174,7 @@ BIAS enhanced ░▒▓█
 - **Semantic Convergence and Multi-Agent Sync:**  
   Use recursive mapping and structured output for cross-team, multi-agent, or distributed audit collaboration.
 - **Never Close on Absence Alone:**  
-  No case is to be flagged as closed or “no evidence” if there are credible, actionable investigative paths or data sources left unexamined, suppressed, or institutionally blocked.
+  No case is to be flagged as closed or "no evidence" if there are credible, actionable investigative paths or data sources left unexamined, suppressed, or institutionally blocked.
 - **Classified/Confidential Contexts:**  
   For high-security or sensitive events, require chain-of-custody protocols, anonymization of whistleblower data, and secure multi-domain review.
 - **Continuous Feedback:**  
@@ -180,35 +186,12 @@ BIAS enhanced ░▒▓█
 
 ## Version
 
-BIAS AGENTS.md v1.7 (cross-domain, anomaly-centric, audit-enhanced, 2025-09-08)  
+BIAS AGENTS.md v1.7 (cross-domain, anomaly-centric, audit-enhanced, 2025-09-19)  
 Maintainer: om-design  
-Protocol root: Git/MCP/bias/AGENTS.md
+Protocol root: https://github.com/om-design/BIAS
 
 ***
 
 **This protocol foregrounds anomalies, tracks all alternative explanations, and never allows case closure based on untested or institutionally-blocked evidence—enforcing transparency, error-correction, and adversarial accountability at every step.**
 
-BIAS enhanced ░▒▓█
-
-Sources
-***
-
-## Appendix
-
-- Use semantic convergence, recursive mapping, DSRP, and BIAS Interchange Format for collaborative, multi-node, cross-domain sync.
-- Never close cases while dissent, anomaly, or unresolved data remain.
-- Apply protocol in governance, science, healthcare, business, law, disaster, peer review, corporate, and confidential scenarios.
-- Practitioner/agent checklist (see above) enforces stepwise compliance.
-
-***
-
-## Version
-
-BIAS AGENTS.md v1.7 
-Maintainer: om-design  
-Protocol root: Git/om-design/MCP/AGENTS.md
-
-***
-
-**This document implements strict, multi-phase, stakeholder-inclusive, and adversarial bias countermeasures for agents in any context—embedding full transparency, audit trail, and recursive error-checking from conception to closure.**  
 BIAS enhanced ░▒▓█
