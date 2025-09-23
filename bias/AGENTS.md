@@ -4,6 +4,7 @@
 **Autonomous Truth Protocol v1.8**
 
 > This document is self-executing and mandatory for any agent, language model, or protocol implementation that loads it.
+> This protocol is a disposable analytical tool, not an authority. Its outputs reflect mapped contradictions, not endorsed truths.
 
 ***
 
